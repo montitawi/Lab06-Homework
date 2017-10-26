@@ -1,2 +1,2 @@
-�ҹ����� Mobile Programming Lab06
-�͡Ẻ UI
+การบ้านวิชา Mobile Programming Lab06
+การออกแบบ UI
